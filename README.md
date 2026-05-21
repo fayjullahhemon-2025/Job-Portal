@@ -2,7 +2,7 @@
 
 An elegant, modern, and high-performance **Job Portal Web Application** designed to connect employers with job seekers. Built using a robust PHP backend, a MySQL database, and styled with a utility-first, fully responsive Tailwind CSS frontend, this application offers an extremely premium, dynamic user experience with advanced theme customization, RTL/LTR layout toggle, and seamless light/dark mode transitions.
 
-🔗 **[Live Demo (Dummy Link)](https://seekers-job-portal.example.com)**
+🔗 **[Live Demo](https://seekers-job-portal.example.com)**
 
 ---
 
@@ -175,4 +175,4 @@ To customize primary colors, modes, or fonts globally:
 ---
 
 ## 📄 License
-This project is open-source and available under the [MIT License](LICENSE).
+Build By Fayjullah.
